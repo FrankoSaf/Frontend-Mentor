@@ -35,7 +35,7 @@ p{
 .second{ 
     background-color:hsl(184, 100%, 22%);
 }
-.second svg,a{
+.second a,svg{
     color:hsl(184, 100%, 22%);
 }
 .third{ 
